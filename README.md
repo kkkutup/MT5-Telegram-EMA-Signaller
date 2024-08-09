@@ -3,12 +3,15 @@
 
 
 /tr/ Belirtilen EMA ile anlık fiyatın kesişimini tespit edip Telegram uyarısı ve ekran alıntısı gönderebilen MetaTrader 5 için Uzman Danışman.
-
+/
+/
+/
 You can get the source code an use it on your projects by donating 10 USDT!
+
 TRC20 USDT. TVZqirAC8cEAgrhHNy48CDJFkbpnwCKy5r
-
-
-
+/
+/
+/
 
 
 
